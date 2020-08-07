@@ -1,4 +1,6 @@
-## Ratatat is a clone of the Patatap app, built as part of the Web Developer Bootcamp course.
+# Ratatat
+
+A clone of the Patatap app, built as part of the Web Developer Bootcamp course.
 
 ---
 
