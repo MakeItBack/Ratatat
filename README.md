@@ -2,8 +2,6 @@
 
 A clone of the Patatap app, built as part of the Web Developer Bootcamp course.
 
----
-
 Ratatat creates graphics with [Paper.js](http://paperjs.org/), an open source vector graphics scripting framework.
 
 [Deployed](https://ratatat.netlify.app/) with Netlify
