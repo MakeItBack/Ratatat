@@ -1,6 +1,5 @@
 # Ratatat
-#### [Ratatat](https://ratatat.netlify.app/) is a clone of the [Patatap](https://patatap.com/) app, built as part of the Web Developer Bootcamp course.
-
+#### [Ratatat](https://ratatat.netlify.app/) is a clone of the [Patatap](https://patatap.com/) app, built as part of the Web Developer Bootcamp course.<br>
 Ratatat creates graphics with [Paper.js](http://paperjs.org/) and sounds with [Howler.js](http://howlerjs.com/)
 
 **Instructions:** Hit any of the letter keys on your keyboard to generate a sound and graphic effect. It's more fun than it sounds!
