@@ -1,7 +1,7 @@
 # Ratatat
 A clone of the Patatap app, built as part of the Web Developer Bootcamp course.
 
-Ratatat creates graphics with [Paper.js](http://paperjs.org/), an open source vector graphics scripting framework.
+Ratatat creates graphics with [Paper.js](http://paperjs.org/) and sounds with [Howler.js](http://howlerjs.com/)
 
 **Instructions:** Hit any of the letter keys on your keyboard to generate a sound and graphic effect. It's more fun than it sounds!
 
