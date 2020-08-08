@@ -3,7 +3,7 @@ A clone of the Patatap app, built as part of the Web Developer Bootcamp course.
 
 Ratatat creates graphics with [Paper.js](http://paperjs.org/), an open source vector graphics scripting framework.
 
-**Instructions:** Hit any of the letter keys on your keyboard to generate a sound and graphic effect. More fun than it sounds!
+**Instructions:** Hit any of the letter keys on your keyboard to generate a sound and graphic effect. It's more fun than it sounds!
 
 [Deployed](https://ratatat.netlify.app/) with Netlify
 
