@@ -2,7 +2,7 @@ body,
 html {
    height: 100%;
    margin: 0;
-   font-family: cursive;
+   font-family: "Hammersmith One", sans-serif;
 }
 
 /* Scale canvas with resize attribute to full size */
@@ -24,6 +24,7 @@ header {
    max-width: 30vw;
    min-height: 10vh;
    font-size: 2.5rem;
+   font-weight: 400;
    text-align: center;
    animation: fadeout 8s;
    opacity: 0;
