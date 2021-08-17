@@ -63,6 +63,7 @@ footer {
    font-size: 0.8rem;
    text-align: center;
    animation: foot-fade 10s;
+   animation-delay: 3s;
    opacity: 0;
    font-family: sans-serif;
    font-weight: 100;
@@ -77,17 +78,12 @@ footer a {
       color: deeppink;
       opacity: 0;
    }
-   40% {
-      opacity: 80%;
-      color: white;
-   }
-   50% {
+   20% {
       opacity: 100%;
       color: white;
    }
-   70% {
+   80% {
       opacity: 100%;
-      color: white;
    }
    100% {
       opacity: 0;
