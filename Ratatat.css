@@ -26,7 +26,7 @@ header {
    font-size: 2.5rem;
    font-weight: 400;
    text-align: center;
-   animation: fadeout 8s;
+   animation: fadeout 10s;
    opacity: 0;
 }
 #sub {
@@ -42,6 +42,7 @@ header {
    }
    50% {
       color: white;
+      opacity: 100%;
    }
 
    70% {
@@ -51,5 +52,45 @@ header {
    100% {
       opacity: 0;
       color: lawngreen;
+   }
+}
+
+footer {
+   position: absolute;
+   bottom: 3vh;
+   margin: auto 0;
+   width: 100%;
+   font-size: 0.8rem;
+   text-align: center;
+   animation: foot-fade 10s;
+   opacity: 0;
+   font-family: sans-serif;
+   font-weight: 100;
+}
+
+footer a {
+   color: lawngreen;
+   text-decoration: none;
+}
+@keyframes foot-fade {
+   0% {
+      color: deeppink;
+      opacity: 0;
+   }
+   40% {
+      opacity: 80%;
+      color: white;
+   }
+   50% {
+      opacity: 100%;
+      color: white;
+   }
+   70% {
+      opacity: 100%;
+      color: white;
+   }
+   100% {
+      opacity: 0;
+      color: white;
    }
 }
