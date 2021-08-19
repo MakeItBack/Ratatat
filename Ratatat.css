@@ -29,11 +29,6 @@ header {
    animation: fadeout 10s;
    opacity: 0;
 }
-#sub {
-   font-size: 1rem;
-   font-family: sans-serif;
-   font-weight: 100;
-}
 
 @keyframes fadeout {
    0% {
@@ -96,6 +91,9 @@ footer a {
 }
 
 @media (hover: none) and (pointer: coarse) {
+   body {
+      background: darkslategrey;
+   }
    canvas {
       display: none;
    }
@@ -114,13 +112,13 @@ footer a {
       display: flex;
       align-items: center;
       justify-content: center;
-      background: darkslategrey;
       text-align: center;
    }
    #touchscreen-info p {
       color: white;
-      font-size: 3rem;
+      font-size: 2.5rem;
       padding: 2rem;
       margin: 0;
+      max-width: 800px;
    }
 }
